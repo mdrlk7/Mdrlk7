@@ -1,0 +1,181 @@
+@charset "UTF-8";
+
+body{
+     background-image:linear-gradient(to right,#400101, #8C0303)
+
+}
+
+main{
+    margin:auto;
+    background-color: black;
+    text-align: center;
+    width: 700px;
+    box-shadow: 10px 10px 2px #250000;
+    
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+h3{
+
+color: white;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h4{
+
+    color: white;
+    text-align: center;
+}
+
+    h5{
+        
+    color: white;
+    text-align: center;
+}
+    
+
+
+p{
+    color: white;
+    text-align:initial;
+    font-size: 20px;
+}
+
+ol{
+color: white;
+text-align: left;
+
+}
+
+ol{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.container{
+    color: white;
+
+    font-size: 20px;
+    font-family:Arial;
+    background-image: linear-gradient( #8C0303, black);
+    
+    padding-right:0px;
+    padding-top:0px;
+    padding-left:0px; 
+    height: 120px;
+
+
+}
+#clique{
+
+    text-align: center;
+
+
+}
+
+#inscricoes{
+
+    color: white;
+
+
+}
+
+a:visited{
+
+     color: red;
+}
+
+a:hover{
+
+    color: rgb(253, 129, 129);
+}
+
+#logopri{
+
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    margin: auto;
+
+}
+
+#img{
+
+
+    text-align: center;
+    margin: auto;
+    
+}
+
+.navegacao > p{
+
+    
+    text-align: left;
+    display: inline;
+    
+
+}
+
+
+.container {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navegacao > p{
+
+    height: 300px;
+    padding-right:10px;
+}
+
+#textoini{
+
+    padding-right:20px; 
+}
+
+p > .linknav{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-indent: 20px;
+
+}
+
+p > .linknav > a:visited{
+
+    color: rgb(253, 129, 129);
+}
+
+h3 > .inscricoes > #inscricoes > a:visited{
+
+    color: red;
+}
+
+#misto{
+
+  width: 600px;
+  border-radius: 30px;
+    
+}
+
+#competidor{
+
+    width: 600px;
+    border-radius: 30px;
+    
+}
+
+
